@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FileIO/FileIO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FileIOTestApp/FileIOTestApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FileIO/ext/Using.swift/Using.xcodeproj">
+   </FileRef>
+</Workspace>
